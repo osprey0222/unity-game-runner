@@ -84,8 +84,3 @@ Also you can the build version of the Red Runner using the following ways:
 
 [:newspaper: Support and News](https://github.com/BayatGames/Support)
 
-## License
-
-MIT @ [Bayat Games](https://github.com/BayatGames)
-
-Made with :heart: by [Bayat Games](https://github.com/BayatGames)
