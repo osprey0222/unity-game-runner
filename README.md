@@ -1,5 +1,5 @@
 #Runner Project
 
--2D character control
--Unity Editor for environment
--variable ui anmimations
+<p>-2D character control</p>
+<p>-Unity Editor for environment</p>
+<p>-variable ui animations</p>
